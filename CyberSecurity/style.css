@@ -1,0 +1,74 @@
+body {
+    background: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+i {
+    margin: 0 10px;
+}
+
+#header {
+    background: url("imgs/background.jpeg") center center / cover no-repeat;
+    width: 100%;
+    border-radius: 0%;
+    color: white;
+}
+
+.card-img-top {
+    width: 40%;
+    margin: 10% auto;
+}
+
+.card {
+    background: #B3AEBD;
+    margin: 10% auto;
+    text-align: centre;
+    padding-bottom: 4%;
+}
+
+footer {
+    background: #343a40;
+    margin: auto;
+    padding-top: 1%;
+    color: white;
+}
+
+.footer-copyright {
+    background: #B3AEBD;
+    color: black;
+    border-top: 2px solid black;
+    padding: 1%;
+}
+
+.card-body {
+    height: 33%;
+}
+
+#history-background {
+    background: url("imgs/cyber-security.png") center center / cover no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+#history-content {
+    background: black;
+    color: white;
+}
+
+
+#row-services ul {
+    list-style-type: none;
+}
+
+#services-content {
+    margin: 10% auto;
+    background: #D6D6D6;
+    padding-top: 1%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+#contacts {
+    margin: 10% auto;
+}
